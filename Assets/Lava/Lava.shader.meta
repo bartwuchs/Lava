@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ca9c53bba96668d4a936c77d05780a6a
+timeCreated: 1498556961
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _ColorRamp: {fileID: 2800000, guid: 5fa347de62bd6834db72bbf1435aba6c, type: 3}
+  - _MainTex: {fileID: 2800000, guid: 62172feadeea64746891762cf9f64a7f, type: 3}
+  - _HeightMapMixer: {fileID: 2800000, guid: 895e97e608dff44b99cc0b7c335001cb, type: 3}
+  - _HeightMap: {fileID: 2800000, guid: 584ec5346fc04f14788945ff896db7d6, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
